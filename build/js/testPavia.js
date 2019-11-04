@@ -1,0 +1,1 @@
+var testpavia = {'data': [{'sourceType': 'ext', 'sourceCodeName': 'Pavia', 'cityCode': 'PAV', 'sourceData': [{'DataType': 'Demographic', 'Younger Adults': 40565, 'Adults': 187583, 'Older Adults': 31463, 'Older': 0, 'N/A': 40389}, {'DataType': 'Physical Activity', 'Never': 99935, 'One to three times': 99723, 'Four or more': 100342}]}]}
